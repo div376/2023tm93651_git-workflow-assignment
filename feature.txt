@@ -1,2 +1,3 @@
 Conflict creation
 Adding a new feature
+Conflicting content in development branch
