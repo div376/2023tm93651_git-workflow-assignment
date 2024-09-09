@@ -1,1 +1,2 @@
 Conflict creation
+Adding a new feature
