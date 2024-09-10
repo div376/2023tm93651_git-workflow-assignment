@@ -1,2 +1,3 @@
 Adding a new feature
 Conflicting content in development branch
+some changes
